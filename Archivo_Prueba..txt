@@ -1,2 +1,3 @@
 Archivo_Prueba.
 ¿Todo anda bien?
+tengo que agregar mas datos para ver si logro visualizar un error en bit/simbolo
